@@ -1,22 +1,23 @@
 # Project : Local Market
+##### Developed by team  Riyo_dev.
 ### FTX Hackathon
 
 #### Introduction :
 
-This project is basically based on a local market, from where anyone one can purchase  their daily need products like fresh vegetables, fruits, fish, meat etc from home in their doorstep.
+This project is basically based on local market, from where anyone one can purchase  their daily need products like fresh vegetables, fruits, fish, meat etc from home in their doorstep.
 
 #### Theme : 
-As per FTX Hackathon guidelines we choose our project on the theme – “Build with  Razorpay” (we used Razorpay APIs).
+As per the FTX Hackathon guidelines we have chosen theme – “Build with  Razorpay”.
 
 #### Project description :
 
-·      There are three main sections we are trying to show you – Home, About and Team.
+·      There are four main sections which are basically Home, About, Team and Order details.
 
-·      The Home section contains several products from where users can buy  products with easiest way.
+·      The Home section contains several products from where users can buy their daily need products in easiest way.
 
 ·      But, before buying products user have to login/signup first.
 
-·      Logged in users can show their profile, from where they can find their order details like payment, product, date, etc.
+·      And logged in users can show their profile, from where they can find their order details like payment, product, date, etc.
 
 #### Technology used :
 
@@ -37,3 +38,6 @@ As per FTX Hackathon guidelines we choose our project on the theme – “Build 
 -         MySQL
 
 -         Razorpay APIs
+
+#### Developers :
+   ##### Rejjak Ali and Miraj Asraf
