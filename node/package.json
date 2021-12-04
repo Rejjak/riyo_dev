@@ -1,0 +1,26 @@
+{
+  "name": "localmarket",
+  "version": "1.0.0",
+  "description": "rezorpay server operation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "keywords": [
+    "shop"
+  ],
+  "author": "RejjakMiraj",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "razorpay": "^2.8.0",
+    "sequelize": "^6.12.0-alpha.1"
+  }
+}
